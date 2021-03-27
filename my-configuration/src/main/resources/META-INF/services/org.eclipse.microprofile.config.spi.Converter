@@ -1,0 +1,7 @@
+com.djt.config.converter.ByteConverter
+com.djt.config.converter.StringConverter
+com.djt.config.converter.LongConverter
+com.djt.config.converter.IntegerConverter
+com.djt.config.converter.FloatConverter
+com.djt.config.converter.DoubleConverter
+com.djt.config.converter.BooleanConverter

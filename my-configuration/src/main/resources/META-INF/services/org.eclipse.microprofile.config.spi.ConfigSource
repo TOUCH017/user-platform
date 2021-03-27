@@ -1,0 +1,3 @@
+com.djt.config.source.DefaultResourceConfigSource
+com.djt.config.source.JavaSystemPropertiesConfigSource
+com.djt.config.source.OperationSystemEnvironmentVariablesConfigSource
